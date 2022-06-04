@@ -8,6 +8,7 @@ body, html{
     background-color: #143d59;
 }
 
+/*Progress bar*/
 
 .scroll-progress{
     color: #ffffff;
@@ -35,10 +36,13 @@ body, html{
     left: 0;
 }
 
+/*Hamburger Icon*/
 .wrapper a svg :hover{
     stroke: #ff0101;
     width: 150;
 }
+
+/*navigation bar*/
 
 .side-nav{
     width: 0;
@@ -132,6 +136,8 @@ li, a, #id{
     font-size: 20px;
 }
 
+/* Main Content */
+
 .ptext{
     font-size: 30px;
     position: absolute;
@@ -214,7 +220,7 @@ p{
 
 
 
-
+/*Scrollbar Modification/*
 
 
 /* width */
