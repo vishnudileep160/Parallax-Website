@@ -1,0 +1,29 @@
+.section{
+    
+}
+
+.firstsection{
+    display: flex;
+    padding: 10px 0;
+}
+
+.firstsection label{
+    padding-right: 10px;
+}
+
+.firstsection input{
+    flex: 1;
+}
+
+.secondsection{
+    display: flex;
+    padding: 10px 0;
+}
+
+.secondsection label{
+    padding-right: 10px;
+}
+
+.secondsection input{
+    flex: 1;
+}
